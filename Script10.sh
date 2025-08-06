@@ -7,4 +7,4 @@ then
 echo "a is greater than b"
 else
 echo "a is smaller than b"
-fi
+echo "This is my first Git modification"
